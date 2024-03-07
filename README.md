@@ -32,3 +32,5 @@ JavaScript, ReactJS, NodeJS, TailwindCSS, Bootstrap and General Questions.
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FreAkeD146&theme=dark)](https://git.io/streak-stats)
+![Tushar GitHub stats](https://github-readme-stats.vercel.app/api?username=FreAkeD146&show_icons=true&theme=great-gatsby)
+

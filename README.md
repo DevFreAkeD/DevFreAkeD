@@ -3,16 +3,16 @@
 ### Hi there 👋
 
 ### 🔭 I’m currently working on
-Web Dev Projects
+- Web Dev Projects
 
 ### 🌱 I’m currently learning:
-NextJS and Azure Services
+- NextJS and Azure Services
    
 ### 👯 I’m looking to collaborate:
-Front-End and Fullstack projects
+- Front-End and Fullstack projects
 
 ### 💬 Ask me about:
-JavaScript, ReactJS, NodeJS, TailwindCSS, Bootstrap and General Questions.
+- JavaScript, ReactJS, NodeJS, TailwindCSS, Bootstrap and General Questions.
 
 <!-- 📫 How to reach me: ...
 - 😄 Pronouns: ...

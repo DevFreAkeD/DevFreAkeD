@@ -1,14 +1,18 @@
-### Hi there 👋
+### ABOUT ME 👋:
+---
 
-🔭 I’m currently working on 
+## Hi there 👋
 
-🌱 I’m currently learning:
+# 🔭 I’m currently working on
+Web Dev Projects
+
+# 🌱 I’m currently learning:
 NextJS and Azure Services
    
-👯 I’m looking to collaborate:
+# 👯 I’m looking to collaborate:
 Front-End and Fullstack projects
 
-💬 Ask me about:
+# 💬 Ask me about:
 JavaScript, ReactJS, NodeJS, TailwindCSS, Bootstrap and General Questions.
 
 <!-- 📫 How to reach me: ...

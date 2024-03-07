@@ -1,7 +1,6 @@
 # ABOUT ME 👋:
----
 
-## Hi there 👋
+### Hi there 👋
 
 ### 🔭 I’m currently working on
 Web Dev Projects

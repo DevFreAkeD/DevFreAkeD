@@ -36,5 +36,4 @@ JavaScript, ReactJS, NodeJS, TailwindCSS, Bootstrap and General Questions.
 ![Tushar GitHub stats](https://github-readme-stats.vercel.app/api?username=FreAkeD146&show_icons=true&theme=great-gatsby)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FreAkeD146&layout=compact&theme=great-gatsby)
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FreAkeD146)](https://github.com/FreAkeD146/github-readme-stats)
+[![FreAkeD WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/FreAkeD146/github-readme-stats)

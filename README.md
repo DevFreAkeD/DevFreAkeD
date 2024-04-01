@@ -48,3 +48,5 @@
 ![Tushar GitHub stats](https://github-readme-stats.vercel.app/api?username=FreAkeD146&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FreAkeD146&layout=compact&theme=dark)
+
+![Tushar Nagar's Dev Card](https://api.daily.dev/devcards/v2/D6SPjTkUrRXT4T7Avt1Db.png?r=x6r&type=wide")

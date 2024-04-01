@@ -49,4 +49,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FreAkeD146&layout=compact&theme=dark)
 
-<a href="https://app.daily.dev/freaked"><img src="https://api.daily.dev/devcards/v2/D6SPjTkUrRXT4T7Avt1Db.png?r=x6r&type=wide" width="652" alt="Tushar Nagar's Dev Card"/></a>
+<a href="https://app.daily.dev/freaked"><img src="https://api.daily.dev/devcards/v2/D6SPjTkUrRXT4T7Avt1Db.png?type=default&r=aca" width="356" alt="Tushar Nagar's Dev Card"/></a>

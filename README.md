@@ -6,7 +6,7 @@
 - Web Dev Projects
 
 ### 🌱 I’m currently learning:
-<img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/nextjs/nextjs-light.svg" height="48" width="48"
+<img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/nextjs/nextjs-light.svg" height="48" width="48">
    
 ### 👯 I’m looking to collaborate:
 - Front-End and Fullstack projects
@@ -15,7 +15,7 @@
 - JavaScript, ReactJS, NodeJS, TailwindCSS, Bootstrap and General Questions.
 
 ### 📫 Connect Me:
-<img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/x/x-light.svg" height="48" width"48"> <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/linkedin/linkedin.svg" height="48" width"48"> <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/discord/discord.svg" height="48" width"48"> <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/leetcode/leetcode-light.png" height="48" width"48">
+<img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/x/x-light.svg" height="48" width="48"> <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/linkedin/linkedin.svg" height="48" width="48"> <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/discord/discord.svg" height="48" width="48"> <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/leetcode/leetcode-light.png" height="48" width="48">
 
 <!-- 📫 How to reach me: ...
 - 😄 Pronouns: ...

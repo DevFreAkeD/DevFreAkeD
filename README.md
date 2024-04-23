@@ -28,7 +28,7 @@
 ---
 
 ## 💻 Tech Stack:
-<img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/c/c.svg" height="48" width="48"> <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/cpp/cpp.svg" height="48" width="48"> <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/html/html.svg" height="48" width="48"> <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/css/css.svg" height="48" width="48"> <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/js/js.svg" height="48" width="48">
+<img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/c/c.svg" height="48" width="48"> <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/cpp/cpp.svg" height="48" width="48"> <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/html/html.svg" height="48" width="48"> <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/css/css.svg" height="48" width="48"> <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/js/js.svg" height="48" width="48"> <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/mysql/mysql.svg" height="48" width="48">
 
 
 

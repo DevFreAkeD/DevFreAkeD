@@ -18,7 +18,7 @@
 <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/x/x-light.svg" height="48" width="48"> <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/linkedin/linkedin.svg" height="48" width="48"> <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/discord/discord.svg" height="48" width="48"> <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/leetcode/leetcode-light.png" height="48" width="48">
 <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/snapchat/snapchat.svg" height="48" width="48">
 
-My Portfoilio: <img src="https://github.com/DevFreAkeD/DevFreAkeD/assets/32740788/5f1d7e3d-8a06-4df9-a088-e02daca87aaf" height="100" width="30">
+<img src="https://github.com/DevFreAkeD/DevFreAkeD/assets/32740788/5f1d7e3d-8a06-4df9-a088-e02daca87aaf" height="30" width="120">
 
 
 <!-- 📫 How to reach me: ...

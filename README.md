@@ -7,6 +7,7 @@
 
 ### 🌱 I’m currently learning:
 <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/nextjs/nextjs-light.svg" height="48" width="48">
+<img src="https://github.com/DevFreAkeD/colored-icons/blob/master/public/icons/aws/aws.svg" height="48" width="48">
    
 ### 👯 I’m looking to collaborate:
 - Front-End and Fullstack projects

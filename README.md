@@ -12,7 +12,7 @@
 - Front-End and Fullstack projects
 
 ### 💬 Ask me about:
-- JavaScript, ReactJS, NodeJS, TailwindCSS, Bootstrap and General Questions.
+- JavaScript, ReactJS, NodeJS, Database and General Questions.
 
 ### 📫 Connect Me:
 <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/x/x-light.svg" height="48" width="48"> <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/linkedin/linkedin.svg" height="48" width="48"> <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/discord/discord.svg" height="48" width="48"> <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/leetcode/leetcode-light.png" height="48" width="48"> <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/snapchat/snapchat.svg" height="48" width="48"> <img src="https://github.com/DevFreAkeD/colored-icons/blob/master/public/icons/instagram/instagram.svg" height="48" width="48">

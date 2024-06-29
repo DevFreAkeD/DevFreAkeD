@@ -15,7 +15,7 @@
 - JavaScript, ReactJS, NodeJS, Database and General Questions.
 
 ### 📫 Connect Me:
-<img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/x/x-light.svg" height="48" width="48"> <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/linkedin/linkedin.svg" height="48" width="48"> <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/discord/discord.svg" height="48" width="48"> <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/leetcode/leetcode-light.png" height="48" width="48"> <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/snapchat/snapchat.svg" height="48" width="48"> <img src="https://github.com/DevFreAkeD/colored-icons/blob/master/public/icons/instagram/instagram.svg" height="48" width="48">
+<img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/x/x-light.svg" height="48" width="48"> <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/linkedin/linkedin.svg" height="48" width="48"> <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/discord/discord.svg" height="48" width="48"> <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/leetcode/leetcode-light.png" height="48" width="48"> <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/snapchat/snapchat.svg" height="48" width="48"> <img src="https://github.com/DevFreAkeD/colored-icons/blob/master/public/icons/instagram/instagram.svg" height="48" width="48">
 
 <img src="https://github.com/DevFreAkeD/DevFreAkeD/assets/32740788/5f1d7e3d-8a06-4df9-a088-e02daca87aaf" height="48" width="150">
 

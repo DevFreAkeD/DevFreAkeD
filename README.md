@@ -35,8 +35,8 @@
 ## :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=DevFreAkeD&theme=github-dark)](https://git.io/streak-stats)
 
-![Tushar GitHub stats](https://github-readme-stats.vercel.app/api?username=DevFreAkeD&show_icons=true&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevFreAkeD&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevFreAkeD&layout=compact&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevFreAkeD&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevFreAkeD&theme=github_dark)
 
 <a href="https://app.daily.dev/freaked"><img src="https://api.daily.dev/devcards/v2/D6SPjTkUrRXT4T7Avt1Db.png?type=default&r=aca" width="356" alt="Tushar Nagar's Dev Card"/></a>

@@ -37,6 +37,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevFreAkeD&theme=github_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevFreAkeD&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevFreAkeD&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevFreAkeD&theme=github_dark)    ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevFreAkeD&theme=github_dark)
 
 <a href="https://app.daily.dev/freaked"><img src="https://api.daily.dev/devcards/v2/D6SPjTkUrRXT4T7Avt1Db.png?type=default&r=aca" width="356" alt="Tushar Nagar's Dev Card"/></a>

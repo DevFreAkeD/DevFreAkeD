@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 ### 🔭 I’m currently working on
-- Full Stack Projects 
+- Front End and Full Stack Projects 
 
 ### 🌱 I’m currently learning:
 <img src="https://github.com/dheereshagrwal/coloured-icons/blob/master/public/logos/technology/nextjs/nextjs-light.svg" height="48" width="48"> <img src="https://github.com/dheereshagrwal/coloured-icons/blob/master/public/logos/technology/aws/aws-light.svg" height="48" width="48"> <img src="https://github.com/veritablestudios/colored-icons/blob/master/public/logos/technology/graphql/graphql.svg" height="48" width="48">

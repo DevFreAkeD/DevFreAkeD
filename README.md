@@ -1,6 +1,6 @@
 # ABOUT ME 👋:
 
-### Hi there 👋
+### Hi there 👋, I'm Tushar Singh.
 
 ### 🔭 I’m currently working on
 - Front End and Full Stack Projects 
